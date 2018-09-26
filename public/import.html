@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Document</title>
+
+    <!--jQuery-->
+    <script src="/js/jquery.min.js"></script>
+
+    <!--Momentjs-->
+    <script src="/js/moment.min.js"></script>
+
+    <!--js-xlsx-->
+    <script type="text/javascript" src="/js/shim.min.js"></script>
+    <script type="text/javascript" src="/js/xlsx.full.min.js"></script>
+</head>
+
+<body>
+    <input type="file" name='teams'>
+    <button id='import_teams'>匯入隊伍</button>
+    <hr>
+    <button id='convert'>轉檔</button>
+
+    <script>
+        function readXLSX(target, callback) {
+            var rABS = true; // true: readAsBinaryString ; false: readAsArrayBuffer
+            //var target = $('input[name=emps_file]')[0];
+            var files = target.files;
+            if (files.length) {
+                var f = files[0];
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    var data = e.target.result;
+                    if (!rABS) {
+                        data = new Uint8Array(data);
+                    }
+                    var workbook = XLSX.read(data, {
+                        type: rABS ? 'binary' : 'array'
+                    });
+
+                    //console.log(workbook);
+                    /* DO SOMETHING WITH workbook HERE */
+                    if (callback) {
+                        callback(workbook);
+                    }
+                };
+                if (rABS) {
+                    reader.readAsBinaryString(f);
+                } else {
+                    reader.readAsArrayBuffer(f);
+                }
+            } else {
+                alert("請選擇檔案");
+            }
+        }
+
+        function insert(url, payload) {
+            var method = "POST";
+            $.ajax({
+                'url': url,
+                'method': method,
+                'dataType': 'json',
+                'headers': {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                'data': JSON.stringify(payload),
+                'success': function (jqXHR, textStatus) {
+                    console.log(textStatus);
+                },
+                'error': function (jqXHR, textStatus) {
+                    console.error(textStatus);
+                }
+            });
+        }
+
+        $('#import_teams').on('click', function () {
+
+            var target = $('input[name=teams]')[0];
+            readXLSX(target, function (workbook) {
+                console.log(workbook);
+
+                var worksheet = workbook.Sheets["工作表1"];
+                if (typeof (worksheet) !== "undefined") {
+                    var data = XLSX.utils.sheet_to_json(worksheet, {
+                        header: ["參賽種類", "隊名", "姓名", "性別", "職級", "主管"]
+                    });
+                    console.log("筆數(含header):" + data.length);
+
+                    var url = "/lists";
+                    for (var i = 1; i < data.length; i++) {
+                        var payload = {
+                            'type': data[i]["參賽種類"],
+                            'team_name': data[i]["隊名"],
+                            'user_name': data[i]["姓名"],
+                            'user_gender': data[i]["性別"],
+                            'user_role': data[i]["職級"],
+                            'user_manager': data[i]["主管"]
+                        };
+                        insert(url, payload);
+                    }
+                }
+            });
+
+        });
+
+        $('#convert').on('click', function () {
+            $.get('/lists', function (data) {
+                console.log(data.length);
+
+                /*
+                {
+      "type": "新店賽",
+      "team_name": "四大天兵",
+      "user_name": "鍾襄郡",
+      "user_gender": "M",
+      "user_role": "P031  ",
+      "user_manager": "N",
+      "id": 180
+    }
+                */
+                var team_name = '';
+                var team = {};
+                for (var i = 0; i < data.length; i++) {
+                    var d = data[i];
+
+                    if (d.team_name === "") {
+
+                    } else {
+                        if (team_name == "") {
+                            team_name = d.team_name;
+                            team = {
+                                "name": d.team_name,
+                                "type": d.type,
+                                "user": []
+                            };
+                        } else if (d.team_name != team_name) {
+
+                            insert("/teams", $.extend(true, {}, team));
+
+                            team_name = d.team_name;
+                            team = {
+                                "name": d.team_name,
+                                "type": d.type,
+                                "user": []
+                            };
+                        }
+
+                        team.user.push({
+                            "name": d.user_name,
+                            "gender": d.user_gender,
+                            "role": d.user_role,
+                            "manager": d.user_manager,
+                        });
+                    }
+                }
+
+            }, 'json');
+        });
+    </script>
+</body>
+
+</html>

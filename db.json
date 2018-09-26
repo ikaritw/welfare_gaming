@@ -1,0 +1,3320 @@
+{
+  "lists": [
+    {
+      "type": "南平賽",
+      "team_name": "吃雞大王",
+      "user_name": "曾柏森",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 1
+    },
+    {
+      "type": "南平賽",
+      "team_name": "吃雞大王",
+      "user_name": "王靈慧",
+      "user_gender": "F",
+      "user_role": "P041",
+      "user_manager": "N",
+      "id": 2
+    },
+    {
+      "type": "南平賽",
+      "team_name": "吃雞大王",
+      "user_name": "陳俊杰",
+      "user_gender": "F",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 3
+    },
+    {
+      "type": "南平賽",
+      "team_name": "吃雞大王",
+      "user_name": "陳妍安",
+      "user_gender": "F",
+      "user_role": "P04",
+      "user_manager": "N",
+      "id": 4
+    },
+    {
+      "type": "南平賽",
+      "team_name": "戰神",
+      "user_name": "陳勝宗",
+      "user_gender": "M",
+      "user_role": "P041",
+      "user_manager": "N",
+      "id": 5
+    },
+    {
+      "type": "南平賽",
+      "team_name": "戰神",
+      "user_name": "簡嘉民",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 6
+    },
+    {
+      "type": "南平賽",
+      "team_name": "戰神",
+      "user_name": "黃嘉慧",
+      "user_gender": "F",
+      "user_role": "M02",
+      "user_manager": "Y",
+      "id": 7
+    },
+    {
+      "type": "南平賽",
+      "team_name": "戰神",
+      "user_name": "朱昱璇",
+      "user_gender": "F",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 8
+    },
+    {
+      "type": "南平賽",
+      "team_name": "一起叫射雞",
+      "user_name": "劉忠義",
+      "user_gender": "M",
+      "user_role": "P041",
+      "user_manager": "N",
+      "id": 9
+    },
+    {
+      "type": "南平賽",
+      "team_name": "一起叫射雞",
+      "user_name": "孫義雄",
+      "user_gender": "M",
+      "user_role": "M05",
+      "user_manager": "Y",
+      "id": 10
+    },
+    {
+      "type": "南平賽",
+      "team_name": "一起叫射雞",
+      "user_name": "李國源",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 11
+    },
+    {
+      "type": "南平賽",
+      "team_name": "一起叫射雞",
+      "user_name": "關志文",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 12
+    },
+    {
+      "type": "南平賽",
+      "team_name": "參加就有獎對不隊",
+      "user_name": "葉秀峰",
+      "user_gender": "M",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 13
+    },
+    {
+      "type": "南平賽",
+      "team_name": "參加就有獎對不隊",
+      "user_name": "曹美伶",
+      "user_gender": "F",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 14
+    },
+    {
+      "type": "南平賽",
+      "team_name": "參加就有獎對不隊",
+      "user_name": "王愷毅",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 15
+    },
+    {
+      "type": "南平賽",
+      "team_name": "參加就有獎對不隊",
+      "user_name": "李泊棻",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 16
+    },
+    {
+      "type": "南平賽",
+      "team_name": "為G爾戰",
+      "user_name": "方國慶",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 17
+    },
+    {
+      "type": "南平賽",
+      "team_name": "為G爾戰",
+      "user_name": "王俊傑",
+      "user_gender": "M",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 18
+    },
+    {
+      "type": "南平賽",
+      "team_name": "為G爾戰",
+      "user_name": "劉季蓁",
+      "user_gender": "F",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 19
+    },
+    {
+      "type": "南平賽",
+      "team_name": "為G爾戰",
+      "user_name": "朱正男",
+      "user_gender": "M",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 20
+    },
+    {
+      "type": "南平賽",
+      "team_name": "就是女漢子",
+      "user_name": "黃莉芬",
+      "user_gender": "F",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 21
+    },
+    {
+      "type": "南平賽",
+      "team_name": "就是女漢子",
+      "user_name": "曾曉珍",
+      "user_gender": "F",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 22
+    },
+    {
+      "type": "南平賽",
+      "team_name": "就是女漢子",
+      "user_name": "黃琇玲",
+      "user_gender": "F",
+      "user_role": "M03",
+      "user_manager": "Y",
+      "id": 23
+    },
+    {
+      "type": "南平賽",
+      "team_name": "就是女漢子",
+      "user_name": "蘇敬麗",
+      "user_gender": "F",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 24
+    },
+    {
+      "type": "南平賽",
+      "team_name": "如果能重來2",
+      "user_name": "李士新",
+      "user_gender": "M",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 25
+    },
+    {
+      "type": "南平賽",
+      "team_name": "如果能重來2",
+      "user_name": "呂晉丞",
+      "user_gender": "M",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 26
+    },
+    {
+      "type": "南平賽",
+      "team_name": "如果能重來2",
+      "user_name": "黎曉娟",
+      "user_gender": "F",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 27
+    },
+    {
+      "type": "南平賽",
+      "team_name": "如果能重來2",
+      "user_name": "龐智遠",
+      "user_gender": "M",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 28
+    },
+    {
+      "type": "南平賽",
+      "team_name": "我只要參加獎",
+      "user_name": "吳純瑞",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 29
+    },
+    {
+      "type": "南平賽",
+      "team_name": "我只要參加獎",
+      "user_name": "林家誠",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 30
+    },
+    {
+      "type": "南平賽",
+      "team_name": "我只要參加獎",
+      "user_name": "鄒志成",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 31
+    },
+    {
+      "type": "南平賽",
+      "team_name": "我只要參加獎",
+      "user_name": "黃民鴻",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 32
+    },
+    {
+      "type": "南平賽",
+      "team_name": "桶仔雞特工隊",
+      "user_name": "范綱倫",
+      "user_gender": "M",
+      "user_role": "P041",
+      "user_manager": "N",
+      "id": 33
+    },
+    {
+      "type": "南平賽",
+      "team_name": "桶仔雞特工隊",
+      "user_name": "謝泳龍",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 34
+    },
+    {
+      "type": "南平賽",
+      "team_name": "桶仔雞特工隊",
+      "user_name": "陳朝能",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 35
+    },
+    {
+      "type": "南平賽",
+      "team_name": "桶仔雞特工隊",
+      "user_name": "高慶智",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 36
+    },
+    {
+      "type": "南平賽",
+      "team_name": "BJ4",
+      "user_name": "賴羿綵",
+      "user_gender": "F",
+      "user_role": "P031  ",
+      "user_manager": "N",
+      "id": 37
+    },
+    {
+      "type": "南平賽",
+      "team_name": "BJ4",
+      "user_name": "鍾佩君",
+      "user_gender": "F",
+      "user_role": "M04   ",
+      "user_manager": "Y",
+      "id": 38
+    },
+    {
+      "type": "南平賽",
+      "team_name": "BJ4",
+      "user_name": "蕭圻炘",
+      "user_gender": "M",
+      "user_role": "M05   ",
+      "user_manager": "Y",
+      "id": 39
+    },
+    {
+      "type": "南平賽",
+      "team_name": "BJ4",
+      "user_name": "洪逸萱",
+      "user_gender": "F",
+      "user_role": "M04   ",
+      "user_manager": "Y",
+      "id": 40
+    },
+    {
+      "type": "南平賽",
+      "team_name": "最後一隊",
+      "user_name": "汪珍霖",
+      "user_gender": "M",
+      "user_role": "P031  ",
+      "user_manager": "N",
+      "id": 41
+    },
+    {
+      "type": "南平賽",
+      "team_name": "最後一隊",
+      "user_name": "羅弘宸",
+      "user_gender": "M",
+      "user_role": "P031  ",
+      "user_manager": "N",
+      "id": 42
+    },
+    {
+      "type": "南平賽",
+      "team_name": "最後一隊",
+      "user_name": "林忠勇",
+      "user_gender": "M",
+      "user_role": "P031  ",
+      "user_manager": "N",
+      "id": 43
+    },
+    {
+      "type": "南平賽",
+      "team_name": "最後一隊",
+      "user_name": "路守全",
+      "user_gender": "M",
+      "user_role": "P031  ",
+      "user_manager": "N",
+      "id": 44
+    },
+    {
+      "type": "新店賽",
+      "team_name": "林來瘋 Linsanity",
+      "user_name": "潘宗延",
+      "user_gender": "M",
+      "user_role": "P03",
+      "user_manager": "N",
+      "id": 45
+    },
+    {
+      "type": "新店賽",
+      "team_name": "林來瘋 Linsanity",
+      "user_name": "朱紹宏",
+      "user_gender": "M",
+      "user_role": "M04",
+      "user_manager": "Y",
+      "id": 46
+    },
+    {
+      "type": "新店賽",
+      "team_name": "林來瘋 Linsanity",
+      "user_name": "陳光奎",
+      "user_gender": "M",
+      "user_role": "M05",
+      "user_manager": "Y",
+      "id": 47
+    },
+    {
+      "type": "新店賽",
+      "team_name": "林來瘋 Linsanity",
+      "user_name": "謝宇綸",
+      "user_gender": "M",
+      "user_role": "P03",
+      "user_manager": "N",
+      "id": 48
+    },
+    {
+      "type": "新店賽",
+      "team_name": "戰神喝啤酒",
+      "user_name": "何銘峰",
+      "user_gender": "M",
+      "user_role": "P03",
+      "user_manager": "N",
+      "id": 49
+    },
+    {
+      "type": "新店賽",
+      "team_name": "戰神喝啤酒",
+      "user_name": "李昆運",
+      "user_gender": "M",
+      "user_role": "P041",
+      "user_manager": "N",
+      "id": 50
+    },
+    {
+      "type": "新店賽",
+      "team_name": "戰神喝啤酒",
+      "user_name": "陳基財",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 51
+    },
+    {
+      "type": "新店賽",
+      "team_name": "戰神喝啤酒",
+      "user_name": "李明政",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 52
+    },
+    {
+      "type": "新店賽",
+      "team_name": "希望主管活下來",
+      "user_name": "陳聖軒",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 53
+    },
+    {
+      "type": "新店賽",
+      "team_name": "希望主管活下來",
+      "user_name": "李麗萍",
+      "user_gender": "F",
+      "user_role": "M04",
+      "user_manager": "Y",
+      "id": 54
+    },
+    {
+      "type": "新店賽",
+      "team_name": "希望主管活下來",
+      "user_name": "林煒爵",
+      "user_gender": "M",
+      "user_role": "P041",
+      "user_manager": "N",
+      "id": 55
+    },
+    {
+      "type": "新店賽",
+      "team_name": "希望主管活下來",
+      "user_name": "洪嘉南",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 56
+    },
+    {
+      "type": "新店賽",
+      "team_name": "你爽就好",
+      "user_name": "王瀚軒",
+      "user_gender": "M",
+      "user_role": "M05",
+      "user_manager": "Y",
+      "id": 57
+    },
+    {
+      "type": "新店賽",
+      "team_name": "你爽就好",
+      "user_name": "邱建霖",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 58
+    },
+    {
+      "type": "新店賽",
+      "team_name": "你爽就好",
+      "user_name": "陳宏彥",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 59
+    },
+    {
+      "type": "新店賽",
+      "team_name": "你爽就好",
+      "user_name": "章家榕",
+      "user_gender": "M",
+      "user_role": "M04",
+      "user_manager": "Y",
+      "id": 60
+    },
+    {
+      "type": "新店賽",
+      "team_name": "只是來吃雞(物理)",
+      "user_name": "黃昶華",
+      "user_gender": "M",
+      "user_role": "M04",
+      "user_manager": "Y",
+      "id": 61
+    },
+    {
+      "type": "新店賽",
+      "team_name": "只是來吃雞(物理)",
+      "user_name": "黃聖凱",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 62
+    },
+    {
+      "type": "新店賽",
+      "team_name": "只是來吃雞(物理)",
+      "user_name": "黎郁伶",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 63
+    },
+    {
+      "type": "新店賽",
+      "team_name": "只是來吃雞(物理)",
+      "user_name": "陳祺祐",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 64
+    },
+    {
+      "type": "新店賽",
+      "team_name": "趴著吃GG",
+      "user_name": "高明仁",
+      "user_gender": "M",
+      "user_role": "P02",
+      "user_manager": "N",
+      "id": 65
+    },
+    {
+      "type": "新店賽",
+      "team_name": "趴著吃GG",
+      "user_name": "陳琮淵",
+      "user_gender": "M",
+      "user_role": "P02",
+      "user_manager": "N",
+      "id": 66
+    },
+    {
+      "type": "新店賽",
+      "team_name": "趴著吃GG",
+      "user_name": "蔡欣諺",
+      "user_gender": "M",
+      "user_role": "P02",
+      "user_manager": "N",
+      "id": 67
+    },
+    {
+      "type": "新店賽",
+      "team_name": "趴著吃GG",
+      "user_name": "李玉龍",
+      "user_gender": "M",
+      "user_role": "P04",
+      "user_manager": "N",
+      "id": 68
+    },
+    {
+      "type": "新店賽",
+      "team_name": "我們只會打LOL",
+      "user_name": "陳昱嘉",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 69
+    },
+    {
+      "type": "新店賽",
+      "team_name": "我們只會打LOL",
+      "user_name": "黃楷晉",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 70
+    },
+    {
+      "type": "新店賽",
+      "team_name": "我們只會打LOL",
+      "user_name": "陳威宇",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 71
+    },
+    {
+      "type": "新店賽",
+      "team_name": "我們只會打LOL",
+      "user_name": "于成德",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 72
+    },
+    {
+      "type": "新店賽",
+      "team_name": "吃雞666",
+      "user_name": "王彥隆",
+      "user_gender": "M",
+      "user_role": "P041",
+      "user_manager": "N",
+      "id": 73
+    },
+    {
+      "type": "新店賽",
+      "team_name": "吃雞666",
+      "user_name": "高玉龍",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 74
+    },
+    {
+      "type": "新店賽",
+      "team_name": "吃雞666",
+      "user_name": "林孟昌",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 75
+    },
+    {
+      "type": "新店賽",
+      "team_name": "吃雞666",
+      "user_name": "王泱力",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 76
+    },
+    {
+      "type": "新店賽",
+      "team_name": "CAMS",
+      "user_name": "陳志宏",
+      "user_gender": "M",
+      "user_role": "P04",
+      "user_manager": "N",
+      "id": 77
+    },
+    {
+      "type": "新店賽",
+      "team_name": "CAMS",
+      "user_name": "朱彥曦",
+      "user_gender": "M",
+      "user_role": "M04",
+      "user_manager": "Y",
+      "id": 78
+    },
+    {
+      "type": "新店賽",
+      "team_name": "CAMS",
+      "user_name": "陳佳希",
+      "user_gender": "F",
+      "user_role": "P04",
+      "user_manager": "N",
+      "id": 79
+    },
+    {
+      "type": "新店賽",
+      "team_name": "CAMS",
+      "user_name": "林冠伯",
+      "user_gender": "M",
+      "user_role": "P03",
+      "user_manager": "N",
+      "id": 80
+    },
+    {
+      "type": "新店賽",
+      "team_name": "初號G",
+      "user_name": "姜柏光",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 81
+    },
+    {
+      "type": "新店賽",
+      "team_name": "初號G",
+      "user_name": "李思賢",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 82
+    },
+    {
+      "type": "新店賽",
+      "team_name": "初號G",
+      "user_name": "魏國書",
+      "user_gender": "M",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 83
+    },
+    {
+      "type": "新店賽",
+      "team_name": "初號G",
+      "user_name": "曾泰澤",
+      "user_gender": "M",
+      "user_role": "M04",
+      "user_manager": "Y",
+      "id": 84
+    },
+    {
+      "type": "新店賽",
+      "team_name": "老山龍快上車",
+      "user_name": "吳忠原",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 85
+    },
+    {
+      "type": "新店賽",
+      "team_name": "老山龍快上車",
+      "user_name": "連柏瑋",
+      "user_gender": "M",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 86
+    },
+    {
+      "type": "新店賽",
+      "team_name": "老山龍快上車",
+      "user_name": "吳詠棟",
+      "user_gender": "M",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 87
+    },
+    {
+      "type": "新店賽",
+      "team_name": "老山龍快上車",
+      "user_name": "吳建鋒",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 88
+    },
+    {
+      "type": "新店賽",
+      "team_name": "大熱天吃小樂天",
+      "user_name": "詹勳安",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 89
+    },
+    {
+      "type": "新店賽",
+      "team_name": "大熱天吃小樂天",
+      "user_name": "陳彥宏",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 90
+    },
+    {
+      "type": "新店賽",
+      "team_name": "大熱天吃小樂天",
+      "user_name": "劉宇銓",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 91
+    },
+    {
+      "type": "新店賽",
+      "team_name": "大熱天吃小樂天",
+      "user_name": "曹景淇",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 92
+    },
+    {
+      "type": "新店賽",
+      "team_name": "把你的鼠標移開",
+      "user_name": "黃貴鈴",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 93
+    },
+    {
+      "type": "新店賽",
+      "team_name": "把你的鼠標移開",
+      "user_name": "康雅嵐",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 94
+    },
+    {
+      "type": "新店賽",
+      "team_name": "把你的鼠標移開",
+      "user_name": "吳至祥",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 95
+    },
+    {
+      "type": "新店賽",
+      "team_name": "把你的鼠標移開",
+      "user_name": "盧俞安",
+      "user_gender": "F",
+      "user_role": "P041",
+      "user_manager": "N",
+      "id": 96
+    },
+    {
+      "type": "新店賽",
+      "team_name": "十面埋伏",
+      "user_name": "王璽彰",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 97
+    },
+    {
+      "type": "新店賽",
+      "team_name": "十面埋伏",
+      "user_name": "連嘉霖",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 98
+    },
+    {
+      "type": "新店賽",
+      "team_name": "十面埋伏",
+      "user_name": "胡竹鈞",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 99
+    },
+    {
+      "type": "新店賽",
+      "team_name": "十面埋伏",
+      "user_name": "吳建勳",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 100
+    },
+    {
+      "type": "新店賽",
+      "team_name": "退役役男隊",
+      "user_name": "周家暘",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 101
+    },
+    {
+      "type": "新店賽",
+      "team_name": "退役役男隊",
+      "user_name": "廖志剛",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 102
+    },
+    {
+      "type": "新店賽",
+      "team_name": "退役役男隊",
+      "user_name": "方思堯",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 103
+    },
+    {
+      "type": "新店賽",
+      "team_name": "退役役男隊",
+      "user_name": "郭彥廷",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 104
+    },
+    {
+      "type": "新店賽",
+      "team_name": "嫩雞吃嫩雞",
+      "user_name": "林育楷",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 105
+    },
+    {
+      "type": "新店賽",
+      "team_name": "嫩雞吃嫩雞",
+      "user_name": "簡妤倢",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 106
+    },
+    {
+      "type": "新店賽",
+      "team_name": "嫩雞吃嫩雞",
+      "user_name": "林書羽",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 107
+    },
+    {
+      "type": "新店賽",
+      "team_name": "嫩雞吃嫩雞",
+      "user_name": "蘇子軒",
+      "user_gender": "M",
+      "user_role": "M04",
+      "user_manager": "Y",
+      "id": 108
+    },
+    {
+      "type": "新店賽",
+      "team_name": "替代役青年們",
+      "user_name": "鄭捷瀚",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 109
+    },
+    {
+      "type": "新店賽",
+      "team_name": "替代役青年們",
+      "user_name": "蔡嘉紘",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 110
+    },
+    {
+      "type": "新店賽",
+      "team_name": "替代役青年們",
+      "user_name": "劉軒呈",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 111
+    },
+    {
+      "type": "新店賽",
+      "team_name": "替代役青年們",
+      "user_name": "黃彥捷",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 112
+    },
+    {
+      "type": "新店賽",
+      "team_name": "你敢打女生?!",
+      "user_name": "王華",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 113
+    },
+    {
+      "type": "新店賽",
+      "team_name": "你敢打女生?!",
+      "user_name": "金志潔",
+      "user_gender": "F",
+      "user_role": "M04",
+      "user_manager": "Y",
+      "id": 114
+    },
+    {
+      "type": "新店賽",
+      "team_name": "請讓我活下去",
+      "user_name": "吳峰旗",
+      "user_gender": "M",
+      "user_role": "P041",
+      "user_manager": "N",
+      "id": 115
+    },
+    {
+      "type": "新店賽",
+      "team_name": "請讓我活下去",
+      "user_name": "鍾任富",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 116
+    },
+    {
+      "type": "新店賽",
+      "team_name": "你敢打女生?!",
+      "user_name": "徐嘉文",
+      "user_gender": "F",
+      "user_role": "M03",
+      "user_manager": "Y",
+      "id": 117
+    },
+    {
+      "type": "新店賽",
+      "team_name": "你敢打女生?!",
+      "user_name": "趙國智",
+      "user_gender": "M",
+      "user_role": "P041",
+      "user_manager": "N",
+      "id": 118
+    },
+    {
+      "type": "新店賽",
+      "team_name": "請讓我活下去",
+      "user_name": "劉育瑋",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 119
+    },
+    {
+      "type": "新店賽",
+      "team_name": "請讓我活下去",
+      "user_name": "蔡文章",
+      "user_gender": "M",
+      "user_role": "M04",
+      "user_manager": "Y",
+      "id": 120
+    },
+    {
+      "type": "新店賽",
+      "team_name": "菜雞",
+      "user_name": "陸彥鈞",
+      "user_gender": "M",
+      "user_role": "M03",
+      "user_manager": "Y",
+      "id": 121
+    },
+    {
+      "type": "新店賽",
+      "team_name": "菜雞",
+      "user_name": "范佐豪",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 122
+    },
+    {
+      "type": "新店賽",
+      "team_name": "菜雞",
+      "user_name": "林子紘",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 123
+    },
+    {
+      "type": "新店賽",
+      "team_name": "菜雞",
+      "user_name": "羅祐任",
+      "user_gender": "M",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 124
+    },
+    {
+      "type": "新店賽",
+      "team_name": "報名只為了吃雞券",
+      "user_name": "劉士豪",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 125
+    },
+    {
+      "type": "新店賽",
+      "team_name": "報名只為了吃雞券",
+      "user_name": "陳正杰",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 126
+    },
+    {
+      "type": "新店賽",
+      "team_name": "報名只為了吃雞券",
+      "user_name": "劉峻豪",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 127
+    },
+    {
+      "type": "新店賽",
+      "team_name": "報名只為了吃雞券",
+      "user_name": "顏良承",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 128
+    },
+    {
+      "type": "新店賽",
+      "team_name": "菜皮巴",
+      "user_name": "林仲宜",
+      "user_gender": "M",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 129
+    },
+    {
+      "type": "新店賽",
+      "team_name": "菜皮巴",
+      "user_name": "林志豪",
+      "user_gender": "M",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 130
+    },
+    {
+      "type": "新店賽",
+      "team_name": "菜皮巴",
+      "user_name": "羅傑臆",
+      "user_gender": "M",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 131
+    },
+    {
+      "type": "新店賽",
+      "team_name": "菜皮巴",
+      "user_name": "林雅茹",
+      "user_gender": "F",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 132
+    },
+    {
+      "type": "新店賽",
+      "team_name": "無限提款機",
+      "user_name": "劉格玲",
+      "user_gender": "F",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 133
+    },
+    {
+      "type": "新店賽",
+      "team_name": "無限提款機",
+      "user_name": "安喜年",
+      "user_gender": "M",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 134
+    },
+    {
+      "type": "新店賽",
+      "team_name": "無限提款機",
+      "user_name": "王國浩",
+      "user_gender": "M",
+      "user_role": "P011",
+      "user_manager": "N",
+      "id": 135
+    },
+    {
+      "type": "新店賽",
+      "team_name": "無限提款機",
+      "user_name": "周育慈",
+      "user_gender": "F",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 136
+    },
+    {
+      "type": "新店賽",
+      "team_name": "紅鯉魚與綠鯉魚與驢",
+      "user_name": "尤廷瑋",
+      "user_gender": "M",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 137
+    },
+    {
+      "type": "新店賽",
+      "team_name": "紅鯉魚與綠鯉魚與驢",
+      "user_name": "劉育誠",
+      "user_gender": "M",
+      "user_role": "P041",
+      "user_manager": "N",
+      "id": 138
+    },
+    {
+      "type": "新店賽",
+      "team_name": "紅鯉魚與綠鯉魚與驢",
+      "user_name": "黃文宋",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 139
+    },
+    {
+      "type": "新店賽",
+      "team_name": "紅鯉魚與綠鯉魚與驢",
+      "user_name": "王婕宇",
+      "user_gender": "F",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 140
+    },
+    {
+      "type": "新店賽",
+      "team_name": "多人混戰",
+      "user_name": "陳仲廷",
+      "user_gender": "M",
+      "user_role": "P03",
+      "user_manager": "N",
+      "id": 141
+    },
+    {
+      "type": "新店賽",
+      "team_name": "多人混戰",
+      "user_name": "盧俊華",
+      "user_gender": "M",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 142
+    },
+    {
+      "type": "新店賽",
+      "team_name": "多人混戰",
+      "user_name": "李尚諺",
+      "user_gender": "M",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 143
+    },
+    {
+      "type": "新店賽",
+      "team_name": "多人混戰",
+      "user_name": "吳偉群",
+      "user_gender": "M",
+      "user_role": "P04",
+      "user_manager": "N",
+      "id": 144
+    },
+    {
+      "type": "新店賽",
+      "team_name": "女友說的隊",
+      "user_name": "吳川吉",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 145
+    },
+    {
+      "type": "新店賽",
+      "team_name": "女友說的隊",
+      "user_name": "王竑勝",
+      "user_gender": "M",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 146
+    },
+    {
+      "type": "新店賽",
+      "team_name": "女友說的隊",
+      "user_name": "李偉誠",
+      "user_gender": "M",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 147
+    },
+    {
+      "type": "新店賽",
+      "team_name": "女友說的隊",
+      "user_name": "洪睿渲",
+      "user_gender": "F",
+      "user_role": "P021",
+      "user_manager": "N",
+      "id": 148
+    },
+    {
+      "type": "新店賽",
+      "team_name": "你吃雞我養雞",
+      "user_name": "詹國廷",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 149
+    },
+    {
+      "type": "新店賽",
+      "team_name": "你吃雞我養雞",
+      "user_name": "李啟維",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 150
+    },
+    {
+      "type": "新店賽",
+      "team_name": "你吃雞我養雞",
+      "user_name": "李盈臻",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 151
+    },
+    {
+      "type": "新店賽",
+      "team_name": "你吃雞我養雞",
+      "user_name": "曾茂偉",
+      "user_gender": "M",
+      "user_role": "M03",
+      "user_manager": "Y",
+      "id": 152
+    },
+    {
+      "type": "新店賽",
+      "team_name": "小護士幫你打針了唷～ㄅ一ㄤˋㄅㄧㄤˋ",
+      "user_name": "鄭吉廷",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 153
+    },
+    {
+      "type": "新店賽",
+      "team_name": "小護士幫你打針了唷～ㄅ一ㄤˋㄅㄧㄤˋ",
+      "user_name": "張意繡",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 154
+    },
+    {
+      "type": "新店賽",
+      "team_name": "小護士幫你打針了唷～ㄅ一ㄤˋㄅㄧㄤˋ",
+      "user_name": "謝永璇",
+      "user_gender": "F",
+      "user_role": "P041",
+      "user_manager": "N",
+      "id": 155
+    },
+    {
+      "type": "新店賽",
+      "team_name": "小護士幫你打針了唷～ㄅ一ㄤˋㄅㄧㄤˋ",
+      "user_name": "陳家康",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 156
+    },
+    {
+      "type": "新店賽",
+      "team_name": "去跟我的二頭肌說",
+      "user_name": "林詩淵",
+      "user_gender": "M",
+      "user_role": "M04",
+      "user_manager": "Y",
+      "id": 157
+    },
+    {
+      "type": "新店賽",
+      "team_name": "去跟我的二頭肌說",
+      "user_name": "柳淑華",
+      "user_gender": "F",
+      "user_role": "M04",
+      "user_manager": "Y",
+      "id": 158
+    },
+    {
+      "type": "新店賽",
+      "team_name": "去跟我的二頭肌說",
+      "user_name": "陳思樺",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 159
+    },
+    {
+      "type": "新店賽",
+      "team_name": "去跟我的二頭肌說",
+      "user_name": "黃惠玥",
+      "user_gender": "F",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 160
+    },
+    {
+      "type": "新店賽",
+      "team_name": "Only for chicken bucket",
+      "user_name": "吳明宜",
+      "user_gender": "M",
+      "user_role": "P03",
+      "user_manager": "N",
+      "id": 161
+    },
+    {
+      "type": "新店賽",
+      "team_name": "Only for chicken bucket",
+      "user_name": "楊世惟",
+      "user_gender": "M",
+      "user_role": "P03",
+      "user_manager": "N",
+      "id": 162
+    },
+    {
+      "type": "新店賽",
+      "team_name": "Only for chicken bucket",
+      "user_name": "賈脈琦",
+      "user_gender": "F",
+      "user_role": "P03",
+      "user_manager": "N",
+      "id": 163
+    },
+    {
+      "type": "新店賽",
+      "team_name": "Only for chicken bucket",
+      "user_name": "李盈萱",
+      "user_gender": "F",
+      "user_role": "P03",
+      "user_manager": "N",
+      "id": 164
+    },
+    {
+      "type": "新店賽",
+      "team_name": "廢到笑",
+      "user_name": "吳明峰",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 165
+    },
+    {
+      "type": "新店賽",
+      "team_name": "廢到笑",
+      "user_name": "陳佳佑",
+      "user_gender": "M",
+      "user_role": "M05",
+      "user_manager": "Y",
+      "id": 166
+    },
+    {
+      "type": "新店賽",
+      "team_name": "廢到笑",
+      "user_name": "許勝傑",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 167
+    },
+    {
+      "type": "新店賽",
+      "team_name": "廢到笑",
+      "user_name": "楊力勳",
+      "user_gender": "M",
+      "user_role": "P031",
+      "user_manager": "N",
+      "id": 168
+    },
+    {
+      "type": "新店賽",
+      "team_name": "我是火雞",
+      "user_name": "高世航",
+      "user_gender": "M",
+      "user_role": "P041  ",
+      "user_manager": "N",
+      "id": 169
+    },
+    {
+      "type": "新店賽",
+      "team_name": "我是火雞",
+      "user_name": "郭柏宏",
+      "user_gender": "M",
+      "user_role": "P031  ",
+      "user_manager": "N",
+      "id": 170
+    },
+    {
+      "type": "新店賽",
+      "team_name": "我是火雞",
+      "user_name": "陳建安",
+      "user_gender": "M",
+      "user_role": "P031  ",
+      "user_manager": "N",
+      "id": 171
+    },
+    {
+      "type": "新店賽",
+      "team_name": "我是火雞",
+      "user_name": "馮思維",
+      "user_gender": "M",
+      "user_role": "P041  ",
+      "user_manager": "N",
+      "id": 172
+    },
+    {
+      "type": "新店賽",
+      "team_name": "冠勳吃G不好吃",
+      "user_name": "宋志揚",
+      "user_gender": "M",
+      "user_role": "P021  ",
+      "user_manager": "N",
+      "id": 173
+    },
+    {
+      "type": "新店賽",
+      "team_name": "冠勳吃G不好吃",
+      "user_name": "黃玄羽",
+      "user_gender": "M",
+      "user_role": "P031  ",
+      "user_manager": "N",
+      "id": 174
+    },
+    {
+      "type": "新店賽",
+      "team_name": "冠勳吃G不好吃",
+      "user_name": "羅聖元",
+      "user_gender": "M",
+      "user_role": "P031  ",
+      "user_manager": "N",
+      "id": 175
+    },
+    {
+      "type": "新店賽",
+      "team_name": "冠勳吃G不好吃",
+      "user_name": "潘柏澔",
+      "user_gender": "M",
+      "user_role": "P031  ",
+      "user_manager": "N",
+      "id": 176
+    },
+    {
+      "type": "新店賽",
+      "team_name": "四大天兵",
+      "user_name": "賴建亨",
+      "user_gender": "M",
+      "user_role": "P021  ",
+      "user_manager": "N",
+      "id": 177
+    },
+    {
+      "type": "新店賽",
+      "team_name": "四大天兵",
+      "user_name": "呂柏廷",
+      "user_gender": "M",
+      "user_role": "P031  ",
+      "user_manager": "N",
+      "id": 178
+    },
+    {
+      "type": "新店賽",
+      "team_name": "四大天兵",
+      "user_name": "彭宇謙",
+      "user_gender": "M",
+      "user_role": "P021  ",
+      "user_manager": "N",
+      "id": 179
+    },
+    {
+      "type": "新店賽",
+      "team_name": "四大天兵",
+      "user_name": "鍾襄郡",
+      "user_gender": "M",
+      "user_role": "P031  ",
+      "user_manager": "N",
+      "id": 180
+    }
+  ],
+  "teams": [
+    {
+      "name": "吃雞大王",
+      "type": "南平賽",
+      "user": [
+        {
+          "name": "曾柏森",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "王靈慧",
+          "gender": "F",
+          "role": "P041",
+          "manager": "N"
+        },
+        {
+          "name": "陳俊杰",
+          "gender": "F",
+          "role": "P011",
+          "manager": "N"
+        },
+        {
+          "name": "陳妍安",
+          "gender": "F",
+          "role": "P04",
+          "manager": "N"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "戰神",
+      "type": "南平賽",
+      "user": [
+        {
+          "name": "陳勝宗",
+          "gender": "M",
+          "role": "P041",
+          "manager": "N"
+        },
+        {
+          "name": "簡嘉民",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "黃嘉慧",
+          "gender": "F",
+          "role": "M02",
+          "manager": "Y"
+        },
+        {
+          "name": "朱昱璇",
+          "gender": "F",
+          "role": "P011",
+          "manager": "N"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "一起叫射雞",
+      "type": "南平賽",
+      "user": [
+        {
+          "name": "劉忠義",
+          "gender": "M",
+          "role": "P041",
+          "manager": "N"
+        },
+        {
+          "name": "孫義雄",
+          "gender": "M",
+          "role": "M05",
+          "manager": "Y"
+        },
+        {
+          "name": "李國源",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "關志文",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "參加就有獎對不隊",
+      "type": "南平賽",
+      "user": [
+        {
+          "name": "葉秀峰",
+          "gender": "M",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "曹美伶",
+          "gender": "F",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "王愷毅",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "李泊棻",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "就是女漢子",
+      "type": "南平賽",
+      "user": [
+        {
+          "name": "黃莉芬",
+          "gender": "F",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "曾曉珍",
+          "gender": "F",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "黃琇玲",
+          "gender": "F",
+          "role": "M03",
+          "manager": "Y"
+        },
+        {
+          "name": "蘇敬麗",
+          "gender": "F",
+          "role": "P011",
+          "manager": "N"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "為G爾戰",
+      "type": "南平賽",
+      "user": [
+        {
+          "name": "方國慶",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "王俊傑",
+          "gender": "M",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "劉季蓁",
+          "gender": "F",
+          "role": "P011",
+          "manager": "N"
+        },
+        {
+          "name": "朱正男",
+          "gender": "M",
+          "role": "P021",
+          "manager": "N"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "如果能重來2",
+      "type": "南平賽",
+      "user": [
+        {
+          "name": "李士新",
+          "gender": "M",
+          "role": "P011",
+          "manager": "N"
+        },
+        {
+          "name": "呂晉丞",
+          "gender": "M",
+          "role": "P011",
+          "manager": "N"
+        },
+        {
+          "name": "黎曉娟",
+          "gender": "F",
+          "role": "P011",
+          "manager": "N"
+        },
+        {
+          "name": "龐智遠",
+          "gender": "M",
+          "role": "P021",
+          "manager": "N"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "我只要參加獎",
+      "type": "南平賽",
+      "user": [
+        {
+          "name": "吳純瑞",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "林家誠",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "鄒志成",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "黃民鴻",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "桶仔雞特工隊",
+      "type": "南平賽",
+      "user": [
+        {
+          "name": "范綱倫",
+          "gender": "M",
+          "role": "P041",
+          "manager": "N"
+        },
+        {
+          "name": "謝泳龍",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "陳朝能",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "高慶智",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "BJ4",
+      "type": "南平賽",
+      "user": [
+        {
+          "name": "賴羿綵",
+          "gender": "F",
+          "role": "P031  ",
+          "manager": "N"
+        },
+        {
+          "name": "鍾佩君",
+          "gender": "F",
+          "role": "M04   ",
+          "manager": "Y"
+        },
+        {
+          "name": "蕭圻炘",
+          "gender": "M",
+          "role": "M05   ",
+          "manager": "Y"
+        },
+        {
+          "name": "洪逸萱",
+          "gender": "F",
+          "role": "M04   ",
+          "manager": "Y"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "最後一隊",
+      "type": "南平賽",
+      "user": [
+        {
+          "name": "汪珍霖",
+          "gender": "M",
+          "role": "P031  ",
+          "manager": "N"
+        },
+        {
+          "name": "羅弘宸",
+          "gender": "M",
+          "role": "P031  ",
+          "manager": "N"
+        },
+        {
+          "name": "林忠勇",
+          "gender": "M",
+          "role": "P031  ",
+          "manager": "N"
+        },
+        {
+          "name": "路守全",
+          "gender": "M",
+          "role": "P031  ",
+          "manager": "N"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": "林來瘋 Linsanity",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "潘宗延",
+          "gender": "M",
+          "role": "P03",
+          "manager": "N"
+        },
+        {
+          "name": "朱紹宏",
+          "gender": "M",
+          "role": "M04",
+          "manager": "Y"
+        },
+        {
+          "name": "陳光奎",
+          "gender": "M",
+          "role": "M05",
+          "manager": "Y"
+        },
+        {
+          "name": "謝宇綸",
+          "gender": "M",
+          "role": "P03",
+          "manager": "N"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "name": "戰神喝啤酒",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "何銘峰",
+          "gender": "M",
+          "role": "P03",
+          "manager": "N"
+        },
+        {
+          "name": "李昆運",
+          "gender": "M",
+          "role": "P041",
+          "manager": "N"
+        },
+        {
+          "name": "陳基財",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "李明政",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "name": "希望主管活下來",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "陳聖軒",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "李麗萍",
+          "gender": "F",
+          "role": "M04",
+          "manager": "Y"
+        },
+        {
+          "name": "林煒爵",
+          "gender": "M",
+          "role": "P041",
+          "manager": "N"
+        },
+        {
+          "name": "洪嘉南",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "name": "你爽就好",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "王瀚軒",
+          "gender": "M",
+          "role": "M05",
+          "manager": "Y"
+        },
+        {
+          "name": "邱建霖",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "陳宏彥",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "章家榕",
+          "gender": "M",
+          "role": "M04",
+          "manager": "Y"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "name": "只是來吃雞(物理)",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "黃昶華",
+          "gender": "M",
+          "role": "M04",
+          "manager": "Y"
+        },
+        {
+          "name": "黃聖凱",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "黎郁伶",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "陳祺祐",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "name": "趴著吃GG",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "高明仁",
+          "gender": "M",
+          "role": "P02",
+          "manager": "N"
+        },
+        {
+          "name": "陳琮淵",
+          "gender": "M",
+          "role": "P02",
+          "manager": "N"
+        },
+        {
+          "name": "蔡欣諺",
+          "gender": "M",
+          "role": "P02",
+          "manager": "N"
+        },
+        {
+          "name": "李玉龍",
+          "gender": "M",
+          "role": "P04",
+          "manager": "N"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "name": "我們只會打LOL",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "陳昱嘉",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "黃楷晉",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "陳威宇",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "于成德",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "name": "吃雞666",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "王彥隆",
+          "gender": "M",
+          "role": "P041",
+          "manager": "N"
+        },
+        {
+          "name": "高玉龍",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "林孟昌",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "王泱力",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "name": "CAMS",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "陳志宏",
+          "gender": "M",
+          "role": "P04",
+          "manager": "N"
+        },
+        {
+          "name": "朱彥曦",
+          "gender": "M",
+          "role": "M04",
+          "manager": "Y"
+        },
+        {
+          "name": "陳佳希",
+          "gender": "F",
+          "role": "P04",
+          "manager": "N"
+        },
+        {
+          "name": "林冠伯",
+          "gender": "M",
+          "role": "P03",
+          "manager": "N"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "name": "初號G",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "姜柏光",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "李思賢",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "魏國書",
+          "gender": "M",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "曾泰澤",
+          "gender": "M",
+          "role": "M04",
+          "manager": "Y"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "name": "老山龍快上車",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "吳忠原",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "連柏瑋",
+          "gender": "M",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "吳詠棟",
+          "gender": "M",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "吳建鋒",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "name": "大熱天吃小樂天",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "詹勳安",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "陳彥宏",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "劉宇銓",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "曹景淇",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "name": "把你的鼠標移開",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "黃貴鈴",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "康雅嵐",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "吳至祥",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "盧俞安",
+          "gender": "F",
+          "role": "P041",
+          "manager": "N"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "name": "十面埋伏",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "王璽彰",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "連嘉霖",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "胡竹鈞",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "吳建勳",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "name": "退役役男隊",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "周家暘",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "廖志剛",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "方思堯",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "郭彥廷",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "name": "嫩雞吃嫩雞",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "林育楷",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "簡妤倢",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "林書羽",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "蘇子軒",
+          "gender": "M",
+          "role": "M04",
+          "manager": "Y"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "name": "替代役青年們",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "鄭捷瀚",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "蔡嘉紘",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "劉軒呈",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "黃彥捷",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "name": "你敢打女生?!",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "王華",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "金志潔",
+          "gender": "F",
+          "role": "M04",
+          "manager": "Y"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "name": "請讓我活下去",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "吳峰旗",
+          "gender": "M",
+          "role": "P041",
+          "manager": "N"
+        },
+        {
+          "name": "鍾任富",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "name": "你敢打女生?!",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "徐嘉文",
+          "gender": "F",
+          "role": "M03",
+          "manager": "Y"
+        },
+        {
+          "name": "趙國智",
+          "gender": "M",
+          "role": "P041",
+          "manager": "N"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "name": "請讓我活下去",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "劉育瑋",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "蔡文章",
+          "gender": "M",
+          "role": "M04",
+          "manager": "Y"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "name": "菜雞",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "陸彥鈞",
+          "gender": "M",
+          "role": "M03",
+          "manager": "Y"
+        },
+        {
+          "name": "范佐豪",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "林子紘",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "羅祐任",
+          "gender": "M",
+          "role": "P011",
+          "manager": "N"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "name": "報名只為了吃雞券",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "劉士豪",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "陳正杰",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "劉峻豪",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "顏良承",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "name": "菜皮巴",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "林仲宜",
+          "gender": "M",
+          "role": "P011",
+          "manager": "N"
+        },
+        {
+          "name": "林志豪",
+          "gender": "M",
+          "role": "P011",
+          "manager": "N"
+        },
+        {
+          "name": "羅傑臆",
+          "gender": "M",
+          "role": "P011",
+          "manager": "N"
+        },
+        {
+          "name": "林雅茹",
+          "gender": "F",
+          "role": "P011",
+          "manager": "N"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "name": "無限提款機",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "劉格玲",
+          "gender": "F",
+          "role": "P011",
+          "manager": "N"
+        },
+        {
+          "name": "安喜年",
+          "gender": "M",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "王國浩",
+          "gender": "M",
+          "role": "P011",
+          "manager": "N"
+        },
+        {
+          "name": "周育慈",
+          "gender": "F",
+          "role": "P021",
+          "manager": "N"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "name": "紅鯉魚與綠鯉魚與驢",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "尤廷瑋",
+          "gender": "M",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "劉育誠",
+          "gender": "M",
+          "role": "P041",
+          "manager": "N"
+        },
+        {
+          "name": "黃文宋",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "王婕宇",
+          "gender": "F",
+          "role": "P021",
+          "manager": "N"
+        }
+      ],
+      "id": 37
+    },
+    {
+      "name": "多人混戰",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "陳仲廷",
+          "gender": "M",
+          "role": "P03",
+          "manager": "N"
+        },
+        {
+          "name": "盧俊華",
+          "gender": "M",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "李尚諺",
+          "gender": "M",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "吳偉群",
+          "gender": "M",
+          "role": "P04",
+          "manager": "N"
+        }
+      ],
+      "id": 38
+    },
+    {
+      "name": "女友說的隊",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "吳川吉",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "王竑勝",
+          "gender": "M",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "李偉誠",
+          "gender": "M",
+          "role": "P021",
+          "manager": "N"
+        },
+        {
+          "name": "洪睿渲",
+          "gender": "F",
+          "role": "P021",
+          "manager": "N"
+        }
+      ],
+      "id": 39
+    },
+    {
+      "name": "你吃雞我養雞",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "詹國廷",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "李啟維",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "李盈臻",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "曾茂偉",
+          "gender": "M",
+          "role": "M03",
+          "manager": "Y"
+        }
+      ],
+      "id": 40
+    },
+    {
+      "name": "小護士幫你打針了唷～ㄅ一ㄤˋㄅㄧㄤˋ",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "鄭吉廷",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "張意繡",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "謝永璇",
+          "gender": "F",
+          "role": "P041",
+          "manager": "N"
+        },
+        {
+          "name": "陳家康",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 41
+    },
+    {
+      "name": "去跟我的二頭肌說",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "林詩淵",
+          "gender": "M",
+          "role": "M04",
+          "manager": "Y"
+        },
+        {
+          "name": "柳淑華",
+          "gender": "F",
+          "role": "M04",
+          "manager": "Y"
+        },
+        {
+          "name": "陳思樺",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "黃惠玥",
+          "gender": "F",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 42
+    },
+    {
+      "name": "Only for chicken bucket",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "吳明宜",
+          "gender": "M",
+          "role": "P03",
+          "manager": "N"
+        },
+        {
+          "name": "楊世惟",
+          "gender": "M",
+          "role": "P03",
+          "manager": "N"
+        },
+        {
+          "name": "賈脈琦",
+          "gender": "F",
+          "role": "P03",
+          "manager": "N"
+        },
+        {
+          "name": "李盈萱",
+          "gender": "F",
+          "role": "P03",
+          "manager": "N"
+        }
+      ],
+      "id": 43
+    },
+    {
+      "name": "廢到笑",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "吳明峰",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "陳佳佑",
+          "gender": "M",
+          "role": "M05",
+          "manager": "Y"
+        },
+        {
+          "name": "許勝傑",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        },
+        {
+          "name": "楊力勳",
+          "gender": "M",
+          "role": "P031",
+          "manager": "N"
+        }
+      ],
+      "id": 44
+    },
+    {
+      "name": "我是火雞",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "高世航",
+          "gender": "M",
+          "role": "P041  ",
+          "manager": "N"
+        },
+        {
+          "name": "郭柏宏",
+          "gender": "M",
+          "role": "P031  ",
+          "manager": "N"
+        },
+        {
+          "name": "陳建安",
+          "gender": "M",
+          "role": "P031  ",
+          "manager": "N"
+        },
+        {
+          "name": "馮思維",
+          "gender": "M",
+          "role": "P041  ",
+          "manager": "N"
+        }
+      ],
+      "id": 45
+    },
+    {
+      "name": "冠勳吃G不好吃",
+      "type": "新店賽",
+      "user": [
+        {
+          "name": "宋志揚",
+          "gender": "M",
+          "role": "P021  ",
+          "manager": "N"
+        },
+        {
+          "name": "黃玄羽",
+          "gender": "M",
+          "role": "P031  ",
+          "manager": "N"
+        },
+        {
+          "name": "羅聖元",
+          "gender": "M",
+          "role": "P031  ",
+          "manager": "N"
+        },
+        {
+          "name": "潘柏澔",
+          "gender": "M",
+          "role": "P031  ",
+          "manager": "N"
+        }
+      ],
+      "id": 46
+    }
+  ],
+  "games": [
+    {
+      "id": "game1",
+      "time": "2018-09-27T05:00:00.000Z",
+      "team": [
+        "就是女漢子",
+        "如果能重來2",
+        "BJ4"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game2",
+      "time": "2018-09-27T06:00:00.000Z",
+      "team": [
+        "晉級",
+        "桶仔雞特工隊",
+        "最後一隊"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game3",
+      "time": "2018-09-27T07:00:00.000Z",
+      "team": [
+        "我只要參加獎",
+        "參加就有獎對不隊",
+        "一起叫射雞"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game4",
+      "time": "2018-09-27T08:00:00.000Z",
+      "team": [
+        "為G爾戰",
+        "吃雞大王",
+        "戰神"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game5",
+      "time": "2018-09-27T09:00:00.000Z",
+      "team": [
+        "晉級",
+        "晉級",
+        "晉級"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game6",
+      "time": "2018-10-03T02:00:00.000Z",
+      "team": [
+        "多人混戰",
+        "菜皮巴",
+        "大熱天吃小樂天"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game7",
+      "time": "2018-10-03T03:00:00.000Z",
+      "team": [
+        "林來瘋 Linsanity",
+        "你爽就好",
+        "戰神喝啤酒"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game8",
+      "time": "2018-10-03T05:00:00.000Z",
+      "team": [
+        "請讓我活下去",
+        "無限提款機",
+        "老司機吃雞"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game9",
+      "time": "2018-10-03T06:00:00.000Z",
+      "team": [
+        "老山龍快上車",
+        "紅鯉魚與綠鯉魚與驢",
+        "趴著吃GG"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game10",
+      "time": "2018-10-03T07:00:00.000Z",
+      "team": [
+        "報名只為了吃雞券",
+        "只是來吃雞(物理)",
+        "菜雞"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game11",
+      "time": "2018-10-03T08:00:00.000Z",
+      "team": [
+        "你吃雞我養雞",
+        "廢到笑",
+        "冠勳吃G不好吃"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game12",
+      "time": "2018-10-03T09:00:00.000Z",
+      "team": [
+        "我是火雞",
+        "小護士幫你打針了唷～ㄅ一ㄤˋㄅㄧㄤˋ",
+        "十面埋伏"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game13",
+      "time": "2018-10-04T02:00:00.000Z",
+      "team": [
+        "吃雞666",
+        "嫩雞吃嫩雞",
+        "退役役男隊"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game14",
+      "time": "2018-10-04T03:00:00.000Z",
+      "team": [
+        "晉級",
+        "晉級",
+        "女友說的隊"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game15",
+      "time": "2018-10-04T05:00:00.000Z",
+      "team": [
+        "晉級",
+        "四大天兵",
+        "你敢打女生?!"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game16",
+      "time": "2018-10-04T06:00:00.000Z",
+      "team": [
+        "晉級",
+        "替代役青年們",
+        "把你的鼠標移開"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game17",
+      "time": "2018-10-04T07:00:00.000Z",
+      "team": [
+        "晉級",
+        "晉級",
+        "希望主管活下來"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game18",
+      "time": "2018-10-04T08:00:00.000Z",
+      "team": [
+        "晉級",
+        "初號G",
+        "去跟我的二頭肌說"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game19",
+      "time": "2018-10-04T09:00:00.000Z",
+      "team": [
+        "晉級",
+        "我們只會打LOL",
+        "Only for chicken bucket"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game20",
+      "time": "2018-10-05T06:00:00.000Z",
+      "team": [
+        "晉級",
+        "晉級",
+        "晉級"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game21",
+      "time": "2018-10-05T07:00:00.000Z",
+      "team": [
+        "晉級",
+        "晉級",
+        "晉級"
+      ],
+      "winner": []
+    },
+    {
+      "id": "game22",
+      "time": "2018-10-05T08:00:00.000Z",
+      "team": [
+        "晉級",
+        "晉級",
+        "晉級"
+      ],
+      "winner": []
+    }
+  ],
+  "results": [
+    {
+      "user": [
+        {
+          "isCheck": false,
+          "kill": 3,
+          "name": "陳聖軒",
+          "gender": "M",
+          "manager": "N"
+        },
+        {
+          "isCheck": false,
+          "kill": 2,
+          "name": "李麗萍",
+          "gender": "F",
+          "manager": "Y"
+        },
+        {
+          "isCheck": false,
+          "kill": 1,
+          "name": "林煒爵",
+          "gender": "M",
+          "manager": "N"
+        },
+        {
+          "isCheck": false,
+          "kill": 0,
+          "name": "洪嘉南",
+          "gender": "M",
+          "manager": "N"
+        }
+      ],
+      "gameDate": "2018/10/04",
+      "gameId": "game17",
+      "teamName": "希望主管活下來",
+      "teamTimes": "Round 2",
+      "isFemaleSurvive": false,
+      "teamRank": null,
+      "kill": 6,
+      "score_kill": 42,
+      "score_Female": 10,
+      "score_Manager": 5,
+      "score_teamRank": 0,
+      "score_femaleSurvive": 0,
+      "score_total": 57,
+      "id": 1
+    },
+    {
+      "user": [
+        {
+          "isCheck": false,
+          "kill": 3,
+          "name": "陳聖軒",
+          "gender": "M",
+          "manager": "N"
+        },
+        {
+          "isCheck": false,
+          "kill": 2,
+          "name": "李麗萍",
+          "gender": "F",
+          "manager": "Y"
+        },
+        {
+          "isCheck": false,
+          "kill": 1,
+          "name": "林煒爵",
+          "gender": "M",
+          "manager": "N"
+        },
+        {
+          "isCheck": false,
+          "kill": 0,
+          "name": "洪嘉南",
+          "gender": "M",
+          "manager": "N"
+        }
+      ],
+      "gameDate": "2018/10/04",
+      "gameId": "game17",
+      "teamName": "希望主管活下來",
+      "teamTimes": "Round 1",
+      "isFemaleSurvive": false,
+      "teamRank": null,
+      "kill": 6,
+      "score_kill": 42,
+      "score_Female": 10,
+      "score_Manager": 5,
+      "score_teamRank": 0,
+      "score_femaleSurvive": 0,
+      "score_total": 57,
+      "id": 2
+    }
+  ]
+}
